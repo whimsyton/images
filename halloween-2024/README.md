@@ -11,3 +11,7 @@
 ![Wallpaper 2](halloween-2024-wallpaper-2.png)
 ## Wallpaper 3
 ![Wallpaper 3](halloween-2024-wallpaper-3.png)
+## Poster 1
+![Poster 1](halloween-2024-poster-1.png)
+## Poster 2
+![Poster 2](halloween-2024-poster-2.png)
