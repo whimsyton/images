@@ -14,3 +14,6 @@ Find me at:
 * [Christmas wallpapers](christmas-2024/README.md)
 * [Trivia questions about Christmas traditions (YouTube Shorts)](https://youtube.com/playlist?list=PLsTYYExEV8TkO0lOtDyU5nMRb-hQHzkIq&si=XkZe_R4vzGmW1wUN)
 * [Halloween wallpapers](halloween-2024/README.md)
+
+# 2025
+* [Easter wallpapers](easter-2025/README.md)
