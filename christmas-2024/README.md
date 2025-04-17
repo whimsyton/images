@@ -19,6 +19,6 @@ Find me at:
 ## Portrait Wallpaper 1
 ![Wallpaper 3](christmas-wallpaper-portrait-1.png)
 ## Portrait Wallpaper 2
-![Poster 1](christmas-wallpaper-portrait-2.png)
+![Wallpaper 2](christmas-wallpaper-portrait-2.png)
 ## Portrait Wallpaper 3
-![Poster 2](christmas-wallpaper-portrait-3.png)
+![Wallpaper 3](christmas-wallpaper-portrait-3.png)
