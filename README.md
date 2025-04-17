@@ -10,10 +10,14 @@ Find me at:
 * [x.com/whimsyton](https://x.com/whimsyton)
 * [youtube.com/@whimsyton](https://youtube.com/@whimsyton)
 
+
+
+# 2025
+* [Easter wallpapers](easter-2025/README.md)
+* [Trivia questions about Easter traditions (YouTube Shorts)](https://www.youtube.com/playlist?list=PLsTYYExEV8TmawzOLu8Yk643MOPdqJCdp)
+
 # 2024
 * [Christmas wallpapers](christmas-2024/README.md)
 * [Trivia questions about Christmas traditions (YouTube Shorts)](https://youtube.com/playlist?list=PLsTYYExEV8TkO0lOtDyU5nMRb-hQHzkIq&si=XkZe_R4vzGmW1wUN)
 * [Halloween wallpapers](halloween-2024/README.md)
 
-# 2025
-* [Easter wallpapers](easter-2025/README.md)
